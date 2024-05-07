@@ -363,3 +363,4 @@ MigrationBackup/
 FodyWeavers.xsd
 /Core/Properties/clientSecrets.json
 /GooglePhotosManager/Properties/googleDriveSecrets.json
+/UI/Properties/googleDriveSecrets.json

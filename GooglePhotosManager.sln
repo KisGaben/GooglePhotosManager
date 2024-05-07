@@ -3,9 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.9.34622.214
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "GooglePhotosManager", "GooglePhotosManager\GooglePhotosManager.csproj", "{23DFB016-AEDD-494E-94AD-7F2F2359F159}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "UI", "UI\UI.csproj", "{23DFB016-AEDD-494E-94AD-7F2F2359F159}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Core", "Core\Core.csproj", "{CFD5C774-6B21-4F91-9A05-3E76CB3C3680}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Core", "Core\Core.csproj", "{CFD5C774-6B21-4F91-9A05-3E76CB3C3680}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
