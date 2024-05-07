@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "GooglePhotosManager (Package)": {
+      "commandName": "MsixPackage"
+    },
+    "GooglePhotosManager (Unpackaged)": {
+      "commandName": "Project"
+    }
+  }
+}
