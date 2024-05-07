@@ -17,8 +17,8 @@
                         <StackPanel Orientation="Horizontal" HorizontalAlignment="Center" VerticalAlignment="Stretch">
                             <TextBlock Text="{Binding Id}" Margin="5"/>
                             <TextBlock Text="{Binding Name}" Margin="5"/>
+                            <TextBlock Text="{Binding Email}" Margin="5"/>
                             <TextBlock Text="{Binding Storage}" Margin="5"/>
-                            <Button Margin="5" Command="{Binding RefreshCommand}">Refresh</Button>
                         </StackPanel>
                     </ItemContainer>
                 </DataTemplate>
